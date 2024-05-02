@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -88,8 +87,6 @@
                 <li>Responsibilities: Managing the pool, Keeping everyone safe and happy, Monitoring the PH levels of the pool, Coordinating with other lifeguards, Contacting emergency services in case of emergency </li>
             </ul>
         </section
-
-        class="section">
             <h2 class="section-header">Skills</h2>
             <ul>
                 <li>Programming Languages: HTML, CSS, JavaScript</li>
