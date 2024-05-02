@@ -93,7 +93,6 @@
                 <li>Other Skills: Coordination, Teamwork, Communication, Leadership, Strong physical abilities</li>
                 <li></li>
             </ul>
-        </section>
     </div>
 
 </body>
