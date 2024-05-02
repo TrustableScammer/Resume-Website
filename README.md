@@ -86,7 +86,6 @@
                 <li>Date Range: March 2024 - Present</li>
                 <li>Responsibilities: Managing the pool, Keeping everyone safe and happy, Monitoring the PH levels of the pool, Coordinating with other lifeguards, Contacting emergency services in case of emergency </li>
             </ul>
-        </section
             <h2 class="section-header">Skills</h2>
             <ul>
                 <li>Programming Languages: HTML, CSS, JavaScript</li>
